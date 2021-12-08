@@ -1,0 +1,47 @@
+.product_body {
+    background: #eee
+}
+
+.product_body .ratings i {
+    font-size: 16px;
+    color: red
+}
+
+.product_body .strike-text {
+    color: red;
+    text-decoration: line-through
+}
+
+.product_body .product-image {
+    width: 100%
+}
+
+.product_body .dot {
+    height: 7px;
+    width: 7px;
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-top: 3px;
+    background-color: blue;
+    border-radius: 50%;
+    display: inline-block
+}
+
+.product_body .spec-1 {
+    color: #938787;
+    font-size: 15px
+}
+
+.product_body h5 {
+    font-weight: 400
+}
+
+.product_body .para {
+    font-size: 16px
+}
+
+.Main { 
+    overflow-y: hidden;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; 
+}
